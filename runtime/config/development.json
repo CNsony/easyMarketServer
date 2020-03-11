@@ -30,7 +30,7 @@
       "type": "file",
       "file": {
         "timeout": 86400000,
-        "cachePath": "D:\\gitHub\\easyMarketSever\\runtime\\cache",
+        "cachePath": "E:\\CodeArea\\easyMarket\\back-end\\easyMarketServer\\runtime\\cache",
         "pathDepth": 1,
         "gcInterval": 86400000
       }
@@ -43,10 +43,10 @@
         "database": "nideshop",
         "prefix": "nideshop_",
         "encoding": "utf8mb4",
-        "host": "220.231.216.128",
+        "host": "localhost",
         "port": "3306",
         "user": "root",
-        "password": "Ectriptestdb2018",
+        "password": "admin",
         "dateStrings": true
       }
     },
@@ -57,14 +57,14 @@
         "backups": 10,
         "absolute": true,
         "maxLogSize": 51200,
-        "filename": "D:\\gitHub\\easyMarketSever\\logs\\app.log"
+        "filename": "E:\\CodeArea\\easyMarket\\back-end\\easyMarketServer\\logs\\app.log"
       },
       "dateFile": {
         "level": "ALL",
         "absolute": true,
         "pattern": "-yyyy-MM-dd",
         "alwaysIncludePattern": true,
-        "filename": "D:\\gitHub\\easyMarketSever\\logs\\app.log"
+        "filename": "E:\\CodeArea\\easyMarket\\back-end\\easyMarketServer\\logs\\app.log"
       }
     }
   },
@@ -114,7 +114,7 @@
       "type": "file",
       "file": {
         "timeout": 86400000,
-        "cachePath": "D:\\gitHub\\easyMarketSever\\runtime\\cache",
+        "cachePath": "E:\\CodeArea\\easyMarket\\back-end\\easyMarketServer\\runtime\\cache",
         "pathDepth": 1,
         "gcInterval": 86400000
       }
@@ -127,10 +127,10 @@
         "database": "nideshop",
         "prefix": "nideshop_",
         "encoding": "utf8mb4",
-        "host": "220.231.216.128",
+        "host": "localhost",
         "port": "3306",
         "user": "root",
-        "password": "Ectriptestdb2018",
+        "password": "admin",
         "dateStrings": true
       }
     },
@@ -141,14 +141,14 @@
         "backups": 10,
         "absolute": true,
         "maxLogSize": 51200,
-        "filename": "D:\\gitHub\\easyMarketSever\\logs\\app.log"
+        "filename": "E:\\CodeArea\\easyMarket\\back-end\\easyMarketServer\\logs\\app.log"
       },
       "dateFile": {
         "level": "ALL",
         "absolute": true,
         "pattern": "-yyyy-MM-dd",
         "alwaysIncludePattern": true,
-        "filename": "D:\\gitHub\\easyMarketSever\\logs\\app.log"
+        "filename": "E:\\CodeArea\\easyMarket\\back-end\\easyMarketServer\\logs\\app.log"
       }
     }
   },
@@ -183,7 +183,7 @@
       "type": "file",
       "file": {
         "timeout": 86400000,
-        "cachePath": "D:\\gitHub\\easyMarketSever\\runtime\\cache",
+        "cachePath": "E:\\CodeArea\\easyMarket\\back-end\\easyMarketServer\\runtime\\cache",
         "pathDepth": 1,
         "gcInterval": 86400000
       }
@@ -196,10 +196,10 @@
         "database": "nideshop",
         "prefix": "nideshop_",
         "encoding": "utf8mb4",
-        "host": "220.231.216.128",
+        "host": "localhost",
         "port": "3306",
         "user": "root",
-        "password": "Ectriptestdb2018",
+        "password": "admin",
         "dateStrings": true
       }
     },
@@ -210,14 +210,14 @@
         "backups": 10,
         "absolute": true,
         "maxLogSize": 51200,
-        "filename": "D:\\gitHub\\easyMarketSever\\logs\\app.log"
+        "filename": "E:\\CodeArea\\easyMarket\\back-end\\easyMarketServer\\logs\\app.log"
       },
       "dateFile": {
         "level": "ALL",
         "absolute": true,
         "pattern": "-yyyy-MM-dd",
         "alwaysIncludePattern": true,
-        "filename": "D:\\gitHub\\easyMarketSever\\logs\\app.log"
+        "filename": "E:\\CodeArea\\easyMarket\\back-end\\easyMarketServer\\logs\\app.log"
       }
     }
   }
